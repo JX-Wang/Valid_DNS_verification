@@ -1,0 +1,340 @@
+2019-08-22 11:15:14,217 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 11:15:14,246 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 11:17:04,631 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 11:17:04,658 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:21:01,408 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:01,408 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:01,408 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:01,408 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:01,410 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:21:01,440 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:21:33,828 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,828 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,828 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,828 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:21:33,829 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:21:36,102 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:21:36,102 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:21:36,102 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:21:36,102 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:21:36,138 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:21:36,165 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:21:36,223 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:36,223 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:36,223 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:36,223 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:21:36,532 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,532 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,532 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,532 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,674 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,674 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,674 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,674 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,717 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,717 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,717 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,717 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,757 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,757 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,757 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,757 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,799 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,799 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,799 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,799 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,842 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,842 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,842 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,842 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,882 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,882 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,882 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,882 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,924 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,924 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,924 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,924 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,967 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,967 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,967 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:36,967 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,009 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,009 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,009 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,009 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,051 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,051 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,051 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,051 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,134 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,134 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,134 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,134 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,170 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,170 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,170 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:21:37,170 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:26:56,019 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:26:56,019 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:26:56,019 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:26:56,019 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:26:56,019 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:26:56,048 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:27:28,749 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,749 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,749 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,749 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:27:28,750 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 09:27:30,456 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:27:30,456 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:27:30,456 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:27:30,456 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 09:27:30,473 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:27:30,500 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 09:27:30,558 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:30,558 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:30,558 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:30,558 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 09:27:31,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,161 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,161 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,161 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,161 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,210 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,210 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,210 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,210 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,253 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,253 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,253 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,253 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,296 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,296 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,296 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,296 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,338 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,338 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,338 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,338 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,413 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,413 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,413 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,413 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,454 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,454 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,454 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,454 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,513 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,513 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,513 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,513 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,555 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,555 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,555 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,555 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,634 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,634 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,634 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,634 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,680 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,680 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,680 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,680 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,713 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,713 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,713 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 09:27:31,713 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:39:24,270 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:39:24,270 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:39:24,270 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:39:24,270 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:39:24,270 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 11:39:24,301 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 11:41:00,992 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 11:41:04,405 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 11:41:04,405 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 11:41:04,405 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 11:41:04,405 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 11:41:04,433 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 11:41:04,460 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 11:41:04,517 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:04,517 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:04,517 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:04,517 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 11:41:05,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,052 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,160 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,160 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,160 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,160 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,201 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,201 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,201 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,201 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,243 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,243 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,243 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,243 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,285 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,285 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,285 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,285 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,326 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,326 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,326 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,326 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,368 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,368 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,368 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,368 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,410 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,410 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,410 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,410 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,453 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,453 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,453 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,453 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,493 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,493 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,493 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,493 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,536 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,536 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,536 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,536 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,576 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,576 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,576 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,576 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,618 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,618 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,618 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,618 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,661 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,661 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,661 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 11:41:05,661 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:22:16,700 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:22:16,700 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:22:16,700 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:22:16,700 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: å¼€å§‹ä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:22:16,700 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 13:22:16,730 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: ç»“æŸä»æ ¹åŸŸåæœåŠ¡å™¨ä¸­æå–é¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 13:23:54,857 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-23 13:24:05,096 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 13:24:05,096 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 13:24:05,096 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 13:24:05,096 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-23 13:24:05,115 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 13:24:05,142 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-23 13:24:05,201 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:24:05,201 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:24:05,201 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:24:05,201 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-23 13:24:05,734 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,734 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,734 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,734 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:20] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,875 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,875 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,875 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,875 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,917 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,917 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,917 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,917 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,959 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,959 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,959 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:05,959 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,000 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,000 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,000 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,000 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,042 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,042 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,042 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,042 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,088 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,088 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,088 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,088 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,125 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,125 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,125 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,125 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,157 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,157 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,157 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,157 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,200 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,200 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,200 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,200 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,242 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,242 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,242 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,242 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,282 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,282 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,282 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,282 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,325 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,325 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,325 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,325 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,367 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,367 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,367 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ
+2019-08-23 13:24:06,367 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/control_tasks_execute.py[line:35] - INFO: æ›´æ–°æ•°æ®åº“æˆåŠŸ

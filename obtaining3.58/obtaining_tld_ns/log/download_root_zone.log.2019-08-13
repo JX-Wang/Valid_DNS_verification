@@ -1,0 +1,43 @@
+2019-08-13 13:23:47,990 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/resolving_tld_ns_by_download/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 13:23:48,470 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/resolving_tld_ns_by_download/download_root_zone.py[line:59] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 13:24:27,025 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/resolving_tld_ns_by_download/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 13:24:27,421 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/resolving_tld_ns_by_download/download_root_zone.py[line:59] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 15:22:33,665 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:22:34,062 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:59] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 15:24:54,711 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:24:55,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:60] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 15:27:38,782 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:27:39,141 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:60] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 15:28:48,434 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:28:53,500 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:30:16,822 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:30:36,470 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:31:18,493 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:31:37,846 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:50] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:35:01,046 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:35:01,414 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:60] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
+2019-08-13 15:35:21,923 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:35:28,257 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:35:49,986 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:35:56,316 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:36:40,003 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:36:44,710 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:38:06,086 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:38:11,043 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:38:35,391 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:38:41,220 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:39:47,628 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:39:51,825 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:40:11,907 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:40:19,956 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:40:57,459 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:41:05,002 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:41:55,283 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:42:05,006 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:42:53,894 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:42:59,203 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:64] - INFO: ç»“æŸä¸‹è½½
+2019-08-13 15:45:16,173 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:45:37,226 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:45:41,092 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:47:00,900 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:49] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-13 15:47:01,487 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓÐÐ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/download_root_zone.py[line:60] - ERROR: ä¸‹è½½å¤±è´¥ï¼ŒåŽŸå› ï¼š[Errno 2] No such file or directory: './tld_ns/root_zone_data/root.zone'
