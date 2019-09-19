@@ -1,0 +1,279 @@
+2019-08-26 16:36:16,411 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 16:36:16,470 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 18:28:57,588 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:28:57,588 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:28:57,588 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:28:57,588 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:28:57,588 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 18:28:57,621 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 18:29:20,240 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:29:20,240 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:29:20,240 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:29:20,240 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:29:20,240 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 18:29:20,269 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 18:30:49,630 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:30:49,630 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:30:49,630 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:30:49,630 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 18:30:49,631 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 18:30:56,332 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 18:30:56,332 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 18:30:56,332 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 18:30:56,332 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 18:30:56,351 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 18:30:56,384 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 18:30:56,441 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:56,441 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:56,441 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 18:30:56,441 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 20:59:31,881 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 20:59:31,881 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 20:59:31,881 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 20:59:31,881 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-08-26 20:59:31,881 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 20:59:31,917 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 21:02:05,585 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 21:02:05,585 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 21:02:05,585 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 21:02:05,585 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 21:02:05,586 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-08-26 21:02:15,724 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 21:02:15,724 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 21:02:15,724 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 21:02:15,724 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\download_root_zone.py[line:63] - INFO: 结束下载
+2019-08-26 21:02:15,743 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-08-26 21:02:15,770 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-08-26 21:02:15,828 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:15,828 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:15,828 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:15,828 - D:\Python\Project\��Ŀ-dns\������ЧDNS��¼��ȡ����֤ϵͳ\code\tld_ns\obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-08-26 21:02:16,331 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:21] - INFO: 更新数据库成功
+2019-08-26 21:02:16,331 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:21] - INFO: 更新数据库成功
+2019-08-26 21:02:16,331 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:21] - INFO: 更新数据库成功
+2019-08-26 21:02:16,331 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:21] - INFO: 更新数据库成功
+2019-08-26 21:02:16,546 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,546 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,546 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,546 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,602 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,602 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,602 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,602 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,648 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,648 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,648 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,648 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,690 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,690 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,690 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,690 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,740 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,740 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,740 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,740 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,795 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,795 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,795 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,795 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,845 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,845 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,845 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,845 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,887 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,887 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,887 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,887 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,924 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,924 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,924 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,924 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,964 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,964 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,964 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:16,964 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,007 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,007 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,007 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,007 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,045 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,045 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,045 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,045 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,082 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,082 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,082 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-08-26 21:02:17,082 - D:/Python/Project/��Ŀ-dns/������ЧDNS��¼��ȡ����֤ϵͳ/code/tld_ns/control_tasks_execute.py[line:36] - INFO: 更新数据库成功
+2019-09-02 16:46:30,378 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:46:30,378 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:46:30,378 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:46:30,378 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:46:30,378 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:46:30,379 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:46:30,379 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:46:30,379 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:46:30,379 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:46:30,379 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:46:30,533 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:46:30,533 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:46:30,533 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:46:30,533 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:46:30,533 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:25,433 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:48:25,433 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:48:25,433 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:48:25,433 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:48:25,433 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-02 16:48:25,434 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-02 16:48:34,031 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-02 16:48:34,031 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-02 16:48:34,031 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-02 16:48:34,031 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-02 16:48:34,031 - /dns_data/obtaining3.5.5/tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-02 16:48:34,112 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:48:34,112 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:48:34,112 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:48:34,112 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:48:34,112 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-02 16:48:34,205 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:34,205 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:34,205 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:34,205 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:34,205 - /dns_data/obtaining3.5.5/tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-02 16:48:34,298 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:34,298 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:34,298 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:34,298 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-02 16:48:34,298 - /dns_data/obtaining3.5.5/tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-02 17:03:55,314 - control_tasks_execute.py[line:64] - ERROR: 数据库异常：获取域名失败
+2019-09-02 17:03:55,314 - control_tasks_execute.py[line:64] - ERROR: 数据库异常：获取域名失败
+2019-09-02 17:03:55,314 - control_tasks_execute.py[line:64] - ERROR: 数据库异常：获取域名失败
+2019-09-02 17:03:55,314 - control_tasks_execute.py[line:64] - ERROR: 数据库异常：获取域名失败
+2019-09-02 17:03:55,314 - control_tasks_execute.py[line:64] - ERROR: 数据库异常：获取域名失败
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:57] - INFO: 开始从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:45:31,174 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:45:31,188 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:45:31,205 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,205 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,205 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,205 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_root.py[line:71] - INFO: 结束从根域名服务器中提取顶级域名的权威信息
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-03 21:45:31,206 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-09-03 21:45:53,484 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-03 21:45:53,484 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-03 21:45:53,484 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-03 21:45:53,484 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/download_root_zone.py[line:63] - INFO: 结束下载
+2019-09-03 21:46:14,918 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:46:14,918 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:46:14,918 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:46:14,918 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:52] - INFO: 开始从根区文件中提取顶级域名
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:43] - ERROR: [Errno 2] No such file or directory: '../tld_ns/root_zone_data/root.zone'
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:46:14,931 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/extract_tlds_from_zone.py[line:60] - INFO: 结束从根区文件中提取顶级域名
+2019-09-03 21:46:15,033 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:46:15,033 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:46:15,033 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:46:15,033 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/obtaining_tlds_ns_from_zone.py[line:148] - INFO: 结束从根区文件中提取根和顶级域名的权威信息
+2019-09-03 21:46:15,066 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:19] - INFO: 更新数据库成功
+2019-09-03 21:46:15,066 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:19] - INFO: 更新数据库成功
+2019-09-03 21:46:15,066 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:19] - INFO: 更新数据库成功
+2019-09-03 21:46:15,066 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:19] - INFO: 更新数据库成功
+2019-09-03 21:46:36,949 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,949 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,949 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,949 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,999 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,999 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,999 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:36,999 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,049 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,049 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,049 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,049 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,105 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,105 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,105 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,105 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,153 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,153 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,153 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,153 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,203 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,203 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,203 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,203 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,259 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,259 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,259 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,259 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,308 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,308 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,308 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,308 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,358 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,358 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,358 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,358 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,409 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,409 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,409 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,409 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,454 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,454 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,454 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,454 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,687 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,687 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,687 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功
+2019-09-03 21:46:37,687 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_dns_project/obtaining3.58/obtaining_tld_ns/control_tasks_execute.py[line:34] - INFO: 更新数据库成功

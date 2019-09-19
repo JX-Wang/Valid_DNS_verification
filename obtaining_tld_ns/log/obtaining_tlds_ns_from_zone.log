@@ -1,0 +1,72 @@
+2019-08-22 10:33:38,207 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:33:38,236 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:35:45,996 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:119] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:35:45,996 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:119] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:35:45,996 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:35:45,996 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:35:50,690 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:35:50,690 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:35:50,710 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:35:50,736 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:35:50,849 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:131] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:35:50,849 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:131] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:31,144 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:124] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:31,144 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:124] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:31,144 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:37:31,144 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:37:36,615 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:37:36,615 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:37:36,634 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:37:36,661 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:37:36,770 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:136] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:36,770 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:136] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:55,767 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:124] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:55,767 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:124] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:37:55,769 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:37:55,769 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:38:00,325 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:38:00,325 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:38:00,344 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:38:00,369 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:38:00,484 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:136] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:38:00,484 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:136] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:38:54,233 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:125] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:38:54,233 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:125] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:38:54,233 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:38:54,233 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:38:58,789 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:38:58,789 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:38:58,808 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:38:58,835 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:38:58,938 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:38:58,938 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:137] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:39:40,141 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:128] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:39:40,141 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:128] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:39:40,141 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:39:40,141 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:39:45,559 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:39:45,559 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:39:45,576 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:39:45,604 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:39:45,706 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:140] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:39:45,706 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:140] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:45:55,256 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:128] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:45:55,256 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:128] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:45:55,256 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:45:55,256 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:46:00,269 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:46:00,269 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:46:00,285 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:46:00,312 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:46:00,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:139] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:46:00,371 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:139] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:56:09,302 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:135] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:56:09,302 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:135] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:56:09,302 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:56:09,302 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:48] - INFO: å¼€å§‹ä¸‹è½½Root Zone File
+2019-08-22 10:56:13,635 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:56:13,635 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\download_root_zone.py[line:63] - INFO: ç»“æŸä¸‹è½½
+2019-08-22 10:56:13,651 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:52] - INFO: å¼€å§‹ä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:56:13,687 - D:\Python\Project\ÏîÄ¿-dns\ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³\code\tld_ns\extract_tlds_from_zone.py[line:60] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–é¡¶çº§åŸŸå
+2019-08-22 10:56:13,756 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:146] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
+2019-08-22 10:56:13,756 - D:/Python/Project/ÏîÄ¿-dns/ÓòÃûÓĞĞ§DNS¼ÇÂ¼»ñÈ¡ÓëÑéÖ¤ÏµÍ³/code/tld_ns/obtaining_tlds_ns_from_zone.py[line:146] - INFO: ç»“æŸä»æ ¹åŒºæ–‡ä»¶ä¸­æå–æ ¹å’Œé¡¶çº§åŸŸåçš„æƒå¨ä¿¡æ¯
